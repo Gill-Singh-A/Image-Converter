@@ -2,7 +2,7 @@
 Converters the Image of any other format in JPG Format
 
 ## Requirements
-Language Used = Python3
+Language Used = Python3<br />
 Modules/Packages used:
 * sys
 * PIL
